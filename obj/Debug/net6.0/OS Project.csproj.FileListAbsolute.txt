@@ -1,0 +1,30 @@
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\bin\Debug\net6.0\OS Project.exe
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\bin\Debug\net6.0\OS Project.deps.json
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\bin\Debug\net6.0\OS Project.runtimeconfig.json
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\bin\Debug\net6.0\OS Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\bin\Debug\net6.0\OS Project.pdb
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.csproj.AssemblyReference.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.AssemblyInfoInputs.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.AssemblyInfo.cs
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.csproj.CoreCompileInputs.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\refint\OS Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.pdb
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\OS Project.genruntimeconfig.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS Project\obj\Debug\net6.0\ref\OS Project.dll
+E:\FCI\6th Semester\OS Project\bin\Debug\net6.0\OS Project.exe
+E:\FCI\6th Semester\OS Project\bin\Debug\net6.0\OS Project.deps.json
+E:\FCI\6th Semester\OS Project\bin\Debug\net6.0\OS Project.runtimeconfig.json
+E:\FCI\6th Semester\OS Project\bin\Debug\net6.0\OS Project.dll
+E:\FCI\6th Semester\OS Project\bin\Debug\net6.0\OS Project.pdb
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.csproj.AssemblyReference.cache
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.AssemblyInfoInputs.cache
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.AssemblyInfo.cs
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.csproj.CoreCompileInputs.cache
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.dll
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\refint\OS Project.dll
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.pdb
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\OS Project.genruntimeconfig.cache
+E:\FCI\6th Semester\OS Project\obj\Debug\net6.0\ref\OS Project.dll
